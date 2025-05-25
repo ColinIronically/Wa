@@ -76,3 +76,4 @@ This project has all documentation under the documentation folder found under ma
 
 ## Project members
 Student ID: i6348120
+Student ID: i6391817
